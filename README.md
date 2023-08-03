@@ -9,6 +9,7 @@
 5. Simulation
 6. Test
 7. Status Information
+8. Licence
 
 [![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-6C488A.svg)](https://gitlab.com/suoglu/i2s)
 [![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-3D76C2.svg)](https://github.com/suoglu/Simple-I2S)
@@ -82,3 +83,7 @@ Master module tested with [i2s_test.v](Test/i2s_test.v). Module tested with `DAT
 **Last Simulation:** 23 January 2021, with [Icarus Verilog](http://iverilog.icarus.com).
 
 **Last Test:** 23 January 2021, on [Digilent Basys 3](https://reference.digilentinc.com/reference/programmable-logic/basys-3/reference-manual).
+
+## Licence
+
+CERN Open Hardware Licence Version 2 - Weakly Reciprocal

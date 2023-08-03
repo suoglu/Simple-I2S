@@ -5,6 +5,7 @@
  * File        : i2s.v                              *
  * Author      : Yigit Suoglu                       *
  * Last Edit   : 23/01/2021                         *
+ * Licence     : CERN-OHL-W                         *
  * ------------------------------------------------ *
  * Description : I2S master module to transfer      *
  *               audio data.                        *
